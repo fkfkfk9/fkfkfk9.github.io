@@ -1,29 +1,27 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Title`,                           // (* Required)
-  description: `Blog Description`,          // (* Required)
-  author: `Author`,                         // (* Required)
+  title: `fkfkfk9 Learn CODE`,                           // (* Required)
+  description: `유종현의 개발 공부용 블로그`,          // (* Required)
+  author: `fkfkfk9`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://',                      // (* Required)
-    // ex.'https://junhobaik.github.io'
-    // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
+  siteUrl: 'https://fkfkfk9.github.io',                      // (* Required)
 
   /** Header */
-  profileImageFileName: '', // include filename extension ex.'profile.jpg'
+  profileImageFileName: 'main_img.jpg', // include filename extension ex.'profile.jpg'
     // The Profile image file is located at path "./images/"
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Enter your information in the "./config.js" file. ',
-  name: 'User Name',
-  company: '',
+  comment: '전자정부 프레임워크, 스프링 프레임워크 개발자 2018-05-02 경력 시작',
+  name: '유종현',
+  company: '(주)한시스템',
   location: 'Korea',
-  email: '',
-  website: 'https://github.com/junhobaik/junhobaik.github.io',           // ex.'https://junhobaik.github.io'
-  linkedin: '',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
+  email: 'fkfkfk9@kakao.com',
+  website: 'https://github.com/fkfkfk9/fkfkfk9.github.io',           // ex.'https://junhobaik.github.io'
+  linkedin: 'https://www.linkedin.com/in/%EC%A2%85%ED%98%84-%EC%9C%A0-99063119b/',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
   instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
-  github: '',                                                            // ex.'https://github.com/junhobaik'
+  github: 'https://github.com/fkfkfk9, https://github.com/fkfkfk999',                                                            // ex.'https://github.com/junhobaik'
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
@@ -31,7 +29,7 @@ module.exports = {
   enableSocialShare: true,        // Social share icon activation (Type of Value: Boolean. Not String)
 
   /** Optional */
-  googleAnalytics: '',     // Google Analytics TrackingID. ex.'UA-123456789-0'
+  googleAnalytics: 'G-NHNE0QZVKG',     // Google Analytics TrackingID. ex.'UA-123456789-0'
   googleSearchConsole: '', // content value in HTML tag of google search console ownership verification. ex.'w-K42k14_I4ApiQKuVPbCRVV-GxlrqWxYoqO94KMbKo'
   googleAdsenseSlot: '',   // Google Adsense Slot. ex.'5214956675'
   googleAdsenseClient: '', // Google Adsense Client. ex.'ca-pub-5001380215831339'
