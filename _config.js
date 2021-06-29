@@ -12,7 +12,7 @@ module.exports = {
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: '전자정부 프레임워크, 스프링 프레임워크 개발자 2018-05-02 경력 시작',
+  comment: 'eGov,Spring 개발자 May 2018 ~',
   name: '유종현',
   company: '(주)한시스템',
   location: 'Korea',
@@ -21,7 +21,7 @@ module.exports = {
   linkedin: 'https://www.linkedin.com/in/%EC%A2%85%ED%98%84-%EC%9C%A0-99063119b/',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
   instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
-  github: 'https://github.com/fkfkfk9, https://github.com/fkfkfk999',                                                            // ex.'https://github.com/junhobaik'
+  github: 'https://github.com/fkfkfk9',                                                            // ex.'https://github.com/junhobaik'
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
@@ -30,8 +30,8 @@ module.exports = {
 
   /** Optional */
   googleAnalytics: 'G-NHNE0QZVKG',     // Google Analytics TrackingID. ex.'UA-123456789-0'
-  googleSearchConsole: '', // content value in HTML tag of google search console ownership verification. ex.'w-K42k14_I4ApiQKuVPbCRVV-GxlrqWxYoqO94KMbKo'
+  googleSearchConsole: 'BVD3qJv5jeHDmbZmgbsQzZfhJFcnrPZGoPzoyOG2LnQ', // content value in HTML tag of google search console ownership verification. ex.'w-K42k14_I4ApiQKuVPbCRVV-GxlrqWxYoqO94KMbKo'
   googleAdsenseSlot: '',   // Google Adsense Slot. ex.'5214956675'
-  googleAdsenseClient: '', // Google Adsense Client. ex.'ca-pub-5001380215831339'
+  googleAdsenseClient: 'ca-pub-5143454690757819', // Google Adsense Client. ex.'ca-pub-5001380215831339'
     // Please correct the adsense client number(ex.5001380215831339) in the './static/ads.txt' file.
 };
