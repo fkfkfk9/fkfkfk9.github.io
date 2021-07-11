@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fkfkfk9 Learn CODE | Feed]]></title><description><![CDATA[유종현의 개발 공부용 블로그]]></description><link>https://fkfkfk9.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Jul 2021 15:03:47 GMT</lastBuildDate><item><title><![CDATA[Head First PMP]]></title><description><![CDATA[Head First PMP 책 소개 1달 책한권 2021년 7월에 읽을 예정인 책은 이다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fkfkfk9 Learn CODE | Feed]]></title><description><![CDATA[유종현의 개발 공부용 블로그]]></description><link>https://fkfkfk9.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Jul 2021 14:17:42 GMT</lastBuildDate><item><title><![CDATA[Head First PMP]]></title><description><![CDATA[Head First PMP 책 소개 1달 책한권 2021년 7월에 읽을 예정인 책은 이다.
 이 책은 회사에 비치되어있는 책 정리 중 관심이 생겨 빌려왔다.
 Head First JAVA를 본적이 있어 쉽게 익힐것을 기대하고 있다.
 책 설명을 읽어보면 …]]></description><link>https://fkfkfk9.github.io/HeadFirstPMP.md/</link><guid isPermaLink="false">https://fkfkfk9.github.io/HeadFirstPMP.md/</guid><pubDate>Sat, 03 Jul 2021 23:13:33 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;&gt;
@@ -72,6 +72,21 @@ Head First JAVA를 본적이 있어 쉽게 익힐것을 기대하고 있다.
 &lt;li&gt;해당 음식들에 필요한 재료들을 분석하고 새로 구입해야할 식재료들을 작성하여 들어가는 비용을 계산한다.&lt;/li&gt;
 &lt;li&gt;요리를 한다.(하면서 계속 레시피대로 진행되는지 확인과정을 한다.)&lt;/li&gt;
 &lt;li&gt;요리를 완성하고 보상을 받는다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;프로젝트-통합관리&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%86%B5%ED%95%A9%EA%B4%80%EB%A6%AC&quot; aria-label=&quot;프로젝트 통합관리 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로젝트 통합관리&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;프로젝트에서 거의 매일 사용되는 프로세스 몇 가지를 살펴본다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;7개의 통합관리 프로세스&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;프로젝트 헌장 개발: 헌장은 작업을 할 수 있게 권한을 부여하는 문서, 항상 관여하는건 아니고 스폰서가 전달하기도 한다.&lt;/li&gt;
+&lt;li&gt;예비 프로젝트 범위 기술서 개발: 프로젝트 목표를 설계하는 문서, 프로젝트를 기확하기 전에 만들기 때문에 예비라고 한다.&lt;/li&gt;
+&lt;li&gt;프로젝트 관리계획 개발 : 프로젝트에서 발생하는 모든 것에 대한 지침서&lt;/li&gt;
+&lt;li&gt;프로젝트 실행지시 및 관리 : 기획이 끝나고 작업을 수행할 때 모든 이들이 할 일들을 잘 하고 있는지, 제품이나 서비스가 요구들을 충족시키는지 확인해야 한다.&lt;/li&gt;
+&lt;li&gt;프로젝트 작업감시 및 통제: 프로젝트에서 진행되는 모든 것들을 하나하나 끊임없이 감시한다.&lt;/li&gt;
+&lt;li&gt;통합변경통제 : 프로젝트상의 문제가 발생했을 경우 어떻게 처리할 것인지 이행관계자 및 고객과 함께 알아내도록 하고 계획을 갱신하여 프로젝트를 완료할 수 있게 해야한다.&lt;/li&gt;
+&lt;li&gt;프로젝트 종료 : 모든 것을 문서화 했는지 확인한다.&lt;/li&gt;
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[MySQL 퍼포먼스 최적화]]></title><description><![CDATA[MySQL 퍼포먼스 최적화 후기 1달 책한권 2021년 6월 읽은 책은 이다.
 이번달은 너무 바쁜관계로 평소 읽어려고 했지만 이상하게 손이 가지 않았던 매우 얇은 110page짜리 책을 읽게 되었다.
 우선 가장 아쉬운점은 얇다. 내용이 좋은듯하면서도…]]></description><link>https://fkfkfk9.github.io/mysqlOptimization.md/</link><guid isPermaLink="false">https://fkfkfk9.github.io/mysqlOptimization.md/</guid><pubDate>Wed, 30 Jun 2021 23:51:33 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;&gt;
