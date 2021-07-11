@@ -1,25 +1,31 @@
-# "Borderless" Theme, Built with Gatsby
+# 개인적으로 공부중인것을 올리는 블로그
 
-- **[Documents (Korean)](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)**  
-- **[Documents (English)](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless,-en)>)**
+> junhobaik 님의 테마를 포크하여 제작
+
+## 1달에 한권씩 책 리뷰
+
+- [x] 5월 읽기 좋은 코드가 좋은 코드다
+- [x] 6월 MySQL 퍼포먼스 최적화
+- [ ] 7월 Head First PMP
+
+## 공부중인 프레임워크
 
 ---
 
-Gatsby로 제작된 정적 웹사이트,  
-블로그 Borderless 테마입니다.
+### React
 
-이 문서에서는 기본적으로 Github Pages로 배포하는 것을 기준으로 작성하였습니다.
+- [ ] React 강의 보면서 프로젝트 개발
 
-**[Borderless DEMO WebSite](https://junhobaik.github.io)**
+---
 
-- 선(Border)이 없는, 색이 최소화된 심플한 디자인
-- 마크다운 게시물 작성 (Markdown + emoji, ktex)
-- 검색 엔진 최적화 (SEO)
-- 사파리 브라우저 등 게시물내 읽기 모드(Reader Mode) 지원
-- Google Analytics 지원
-- Google Adsense 지원
-- Disqus 댓글 기능 지원
+### Spring Boot
 
-## Get Started
+- [ ] Spring Boot 강의 보면서 예제 개발
 
-자세한 가이드는 [Documents](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)를 확인해주세요.
+---
+
+### eGov
+
+#### 공통 컴포넌트 공부
+
+- [ ] validation
