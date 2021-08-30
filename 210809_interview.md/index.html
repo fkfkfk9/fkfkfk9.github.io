@@ -597,6 +597,8 @@
 <ul>
 <li>편견에 주의할 것</li>
 <li>이력서에 적힌 기술, 경험 및 가치관 이외에 사항은 철저히 무시한다.</li>
+<li>블로그 또는 깃헙으로 편견을 가지면 안된다. 개발자가 좀 더 자신을 드러내고 싶을 수 있다 정도이지 절대적일 수 없다.</li>
+<li>전공 학과 또한 편견이다. 요즘은 여러 교육기관이나 독학으로도 충분히 잘 할 수 있는 개발자들이 있다.</li>
 </ul>
 <hr>
 <h3 id="코딩-인터뷰" style="position:relative;"><a href="#%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0" aria-label="코딩 인터뷰 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>코딩 인터뷰</h3>
@@ -653,6 +655,7 @@
 인트형 배열에서 같은 숫자가 하나라도 있다면 true를 리턴해주는 문제가 출제되었을때 i,j로 2중포문으로 해결한다면 시간복잡도는 O(n제곱), 공간복잡도는 O(1)이다. 하지만 O(n제곱)의 형태는 출제자가 원하는 방향이 아닐 확률이 높으므로 다시한번 생각해보는게 좋다.<br>
 Arrays.sort를 사용하여 정렬을 한다면 구지 반복문을 2번할 필요없이 현재인덱스 값과 다음인덱스 값만 검색해도 답이 명확해진다. 반복문을 2번하는것보다 Arrays.sort를 사용하는것이 시간복잡도에서 이득이니 정렬한 뒤에 문제를 풀자<br>
 또 다른 방법으로는 set을 사용하는것이 있는데 set은 중복을 허용하지 않고 시간복잡도가 O(1)이다.</p>
+<p><a href="https://github.com/fkfkfk9/algorithm/blob/main/src/ArrayEx.java" target="_blank" rel="nofollow noopener noreferrer">실습 소스코드</a></p>
 <h4 id="리스트" style="position:relative;"><a href="#%EB%A6%AC%EC%8A%A4%ED%8A%B8" aria-label="리스트 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>리스트</h4>
 <p>자료구조에서 리스트와 자바의 컨렉션즈의 리스트와는 조금 다르다. ArrayList는 개념적인 배열과 비슷하다. 배열은 사이즈가 고정되고 리스트는 크기가 동적으로 알아서 조절된다.<br>
 Vector와 ArrayList는 배열기반의 리스트이고 링크드 리스트는 노드기반의 리스트이다. Vector은 하나의 쓰레드만 접근할 수 있고 ArrayList는 여러 쓰레드가 접글할 수 있어 성능적으로 더 빠르고 자주 쓰인다.<br>
