@@ -133,9 +133,26 @@ tags: [취업]
 
 희망 연봉을 제시할 때 이전 직장의 연봉이 아니라 지원한 회사의 직급별 평균 연봉을 참고한다.
 
-[사람인](http://www.saramin.co.kr/zf/user/companylab)
-[glassdoor](https://www.glassdoor.com/member/home/index.htm)
-[levels](https://www.levels.fyi/SE/Google/Facebook/Microsoft/)
+[사람인](http://www.saramin.co.kr/zf/user/companylab)  
+[외국](https://www.glassdoor.com/member/home/index.htm)  
+[연봉비교](https://www.levels.fyi/SE/Google/Facebook/Microsoft/)
+
+연봉은 이직할 때 크게 올릴 수 있어도 매년 하는 연봉협상에선 크게 올릴걸 기대할 수 없으니 최대한 올려서 받아야 한다.
+
+#### 계약전 확인사항
+
+본인에게 잘 맞는 부서인지 회사인지 확인해야한다.
+
+- 구체적으로 본인의 직무가 어떻게 되는지 확인한다.
+- 부서에서 본인이 같이 일을 하게 될 동료 구성
+- 운영 업무와 개발 업무의 비중
+- 하루 일과
+
+#### 이직 후 업무 적응
+
+팀에 적응하는 속도가 빨라야 중요한 일을 맡을 수 있다.
+
+- 
 
 ---
 
