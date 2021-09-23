@@ -7,7 +7,8 @@
 - [x] 5월 읽기 좋은 코드가 좋은 코드다
 - [x] 6월 MySQL 퍼포먼스 최적화
 - [x] 7월 함께 자라기 애자일로 가는 길
-- [ ] 8월 테스트 주도 개발 시작하기
+- [ ] 8월 Writing Effective Use Cases
+- [ ] 9월 그림으로 배우는 Http Network Basic
 
 ## Post 중인 내용
 
@@ -27,7 +28,7 @@
 
 ### Spring Boot
 
-- [ ] Spring Boot 강의 보면서 예제 개발
+- [x] Spring Boot 강의 보면서 예제 개발
 
 ---
 
