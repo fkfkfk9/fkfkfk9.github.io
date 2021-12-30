@@ -85,3 +85,13 @@ git status
 git config --global alias.st status
 git st
 ```
+
+## 3 기본명령어
+
+### 3.1 Git의 동작방식
+
+Git에는 크게 3가지 작업환경이 있다. `wkroking directory`는 현재 작업하고 있는 폴더를 의미하고 `staging area`는 저장할 준비가 되어있는 파일들을 옮겨놓는다. `.git directory`는 버전의 히스토리를 보관하고 있다.  
+`wkroking directory`에서 파일들을 작업하고 있다면 `add`명령어를 통해 히스토리에 저장하고 싶은 파일들을 `staging area`로 이동시킨다. 원하는 작업이 마무리 되어 `.git directory` 히스토리로 저장하고 싶다면 `commit`명령어를 통해 `staging area`의 파일들을 하나의 히스토리로 저장시킨다.  
+만약 저장시켜놓은 버전으로 돌아가고 싶다면 `checkout` 명령어를 이용하여 복구가 가능하다.
+`.git directory`는 현재 Git이 설치된 컴퓨터에만 저장되기 때문에 결국 컴퓨터에 문제가 생긴다면 옛날에 파일로 보관하던 때의 단점을 해결할 수 없다. 그렇기 때문에 `Github`같은 Git 저장소를 이용하여 `.git directory`를 저장해준다. `.git directory` 에서 `Github`로 업로드 해주는 명령어는 `push`이다. 반대로 다운로드 받는것은 `pull`명령어를 사용한다.  
+`wkroking directory`의 경우 2가지로 나눌 수 있는데 `untracked`와 `tracked`이다. `tracked`는 Git이 관리하고 있는 파일들을 의미하고 `untracked` 관리하지 않는 파일을 의미한다. `tracked`의 경우 또 `unmodified`와 `modified`로 나뉘는데 수정된 파일과 수정되지 않는 파일을 의마한다. 만약 `wkroking directory`에서 `staging area`로 파일을 추가하려고 한다면 `unmodified`상태는 수정된것이 없으므로 불가능하다.
